@@ -19,6 +19,10 @@ i {
   color: #FFF;
 }
 
+p {
+ text-align: center;
+}
+
 .header-icons {
   display: flex;
   gap: 14px;
@@ -167,6 +171,9 @@ i {
   background-color: #06121e;
   overflow: hidden;
   color: #FFF;
+}
+.text_sobre {
+  text-align: justify;
 }
 
 .about-content {
